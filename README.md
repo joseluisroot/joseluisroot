@@ -51,7 +51,6 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />   
@@ -66,6 +65,7 @@
    <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />   
    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+   <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nest" width="40" height="40"/>
 </p>
 
 ## 👯 I’m looking to collaborate on ...
