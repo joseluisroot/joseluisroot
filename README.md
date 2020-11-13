@@ -42,9 +42,9 @@
    <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />   
-   <br>
+   <br>   
+   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
-   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" /> 
    <img src="https://devicon.dev/devicon.git/icons/apache/apache-original.svg" alt="apache" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
    <br>
