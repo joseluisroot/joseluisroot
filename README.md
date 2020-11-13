@@ -25,7 +25,7 @@
 ##  🌱 I’m currently improve Skills ...
 <p align="left">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
@@ -33,7 +33,7 @@
    
 ##  🌱 I’m currently Skills learning ...
 <p align="left">   
-   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>t="40"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
 </p>
 <br>
 
