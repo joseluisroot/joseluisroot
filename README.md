@@ -6,8 +6,8 @@
 
 ## 🔭 I’m currently working on ...
 <p align="left">
-   <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="html5" width="40" height="40" />
-   
+   <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40" />   
    <br>
    <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
