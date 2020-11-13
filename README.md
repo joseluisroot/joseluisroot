@@ -7,16 +7,18 @@
    <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   
+   <br>
    <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-   <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />
-   
-   
+   <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />   
    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+   <br>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+   <img src="https://devicon.dev/devicon.git/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
+   
  </p>
 <br>   
    
@@ -41,9 +43,6 @@
 **joseluisroot/joseluisroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://github-readme-stats.vercel.app/api?username=joseluisroot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
-
-<img src="https://github-readme-stats.vercel.app/api?username=Blopaa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blopaa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
 Here are some ideas to get you started:
 
