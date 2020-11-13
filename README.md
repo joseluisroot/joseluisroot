@@ -48,7 +48,7 @@
    <img src="https://devicon.dev/devicon.git/icons/apache/apache-original.svg" alt="apache" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
    <br>
-   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/socketio/socketio-icon.svg" alt="socketio" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
