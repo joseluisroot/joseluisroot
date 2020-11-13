@@ -32,7 +32,8 @@
 <br>
    
 ##  🌱 I’m currently Skills learning ...
-<p align="left">   
+<p align="left">
+   <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />   
    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
 </p>
 <br>
