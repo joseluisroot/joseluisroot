@@ -7,7 +7,8 @@
 ## 🔭 I’m currently working on ...
 <p align="left">
    <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
-   <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40" />   
+   <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />   
    <br>
    <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
@@ -23,6 +24,12 @@
    <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/foundation/foundation-original.svg" alt="foundation" width="40" height="40" />
    <br>
+   <img src="https://devicon.dev/devicon.git/icons/stylus/stylus-original.svg" alt="stylus" width="40" height="40" />
+   
+   <br>
+   <img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
    <br>
    <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />   
@@ -33,14 +40,14 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
-   
+   <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />   
  </p>
-
 
 ##  🚀 I’m currently improve and skills learning...
 <p align="left">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+   <img src="https://devicon.dev/devicon.git/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>   
    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />   
