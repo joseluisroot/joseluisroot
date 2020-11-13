@@ -34,9 +34,16 @@
    <img src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
-   <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40" />   
+   <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40" /> 
    <br>
-   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />   
+   <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
+   <br>
+   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" /> 
+   <img src="https://devicon.dev/devicon.git/icons/apache/apache-original.svg" alt="apache" width="40" height="40" />    
    <br>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
