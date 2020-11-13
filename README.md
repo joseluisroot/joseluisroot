@@ -20,17 +20,21 @@
    <br>
    <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgress" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+   
    <br>
    <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/foundation/foundation-original.svg" alt="foundation" width="40" height="40" />
    <br>
    <img src="https://devicon.dev/devicon.git/icons/stylus/stylus-original.svg" alt="stylus" width="40" height="40" />
-   
+   <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40" />   
    <br>
    <img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" alt="moodle" width="40" height="40" />   
    <br>
    <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />   
    <br>
