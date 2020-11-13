@@ -6,6 +6,9 @@
 
 ## 🔭 I’m currently working on ...
 <p align="left">
+   <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="html5" width="40" height="40" />
+   
+   <br>
    <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -13,6 +16,16 @@
    <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />   
    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+   <br>
+   <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgress" width="40" height="40" />
+   <br>
+   <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+   <img src="https://devicon.dev/devicon.git/icons/foundation/foundation-original.svg" alt="foundation" width="40" height="40" />
+   <br>
+   <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
+   <br>
+   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />   
    <br>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -24,16 +37,12 @@
  </p>
 
 
-##  🌱 I’m currently improve Skills ...
+##  🚀 I’m currently improve and skills learning...
 <p align="left">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</p>
-   
-##  🌱 I’m currently Skills learning ...
-<p align="left">
    <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />   
    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
 </p>
