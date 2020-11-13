@@ -45,6 +45,13 @@
   <a href="https://github.com/orgs/StacklyCode">StacklyCode</a>
 </p>
 
+<!-- Stats -->
+
+## Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=joseluisroot)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisroot&layout=compact)
+
 <!--
 **joseluisroot/joseluisroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
