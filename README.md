@@ -22,7 +22,7 @@
    <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
    
  </p>
-<br>   
+
 
 ##  🌱 I’m currently improve Skills ...
 <p align="left">
@@ -31,14 +31,12 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
-<br>
    
 ##  🌱 I’m currently Skills learning ...
 <p align="left">
    <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />   
    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
 </p>
-<br>
 
 ## 👯 I’m looking to collaborate on ...
 <p align="left">
