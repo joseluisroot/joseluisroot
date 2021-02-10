@@ -14,7 +14,7 @@
    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    <br>
-   <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40" />
    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" />   
    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    <br>
