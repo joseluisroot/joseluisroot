@@ -58,7 +58,7 @@
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    <i class="devicon-ionic-original"></i>
-   <i class="devicon-angularjs-plain"></i>
+   <i class="devicon-angularjs-plain colored"></i>
  </p>
 
 ##  🚀 I’m currently improve and skills learning...
