@@ -3,9 +3,15 @@
 # I'm joseluisroot (José Luis Reyes) 💻👨‍👩‍👦‍👦🎧🤖👨‍💻
 
 <!-- Skill -->
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+
 
 ## 🔭 I’m currently working on ...
 <p align="left">
+   <!-- in your body -->
+   <i class="devicon-visualstudio-plain"></i>
    <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=ffffff" alt="visual-code" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40" />
    <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />   
