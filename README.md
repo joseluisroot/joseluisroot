@@ -4,7 +4,8 @@
 
 <!-- Skill -->
 <!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 
 
@@ -12,6 +13,9 @@
 <p align="left">
    <!-- in your body -->
    <i class="devicon-visualstudio-plain"></i>
+   <i class="devicon-visualstudio-plain colored"></i>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+          
    <i class="devicon-dotnetcore-plain"></i>
    <i class="devicon-atom-original"></i>   
    <br>
