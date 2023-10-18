@@ -14,7 +14,7 @@
    <!-- in your body -->
    <i class="devicon-visualstudio-plain"></i>
    <i class="devicon-visualstudio-plain colored"></i>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40px" height="40px" />
           
    <i class="devicon-dotnetcore-plain"></i>
    <i class="devicon-atom-original"></i>   
